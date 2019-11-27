@@ -19,7 +19,7 @@ namespace _5SemesterWebAppHovedOpgave.Controllers
         {
             return View();
         }
-
+        //hahahah
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
